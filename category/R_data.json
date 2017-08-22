@@ -1,0 +1,387 @@
+{
+    "data": [{
+            "directors": [
+                "Luz Ruciello"
+            ],
+            "rate": "7.9",
+            "cover_x": 667,
+            "star": "40",
+            "title": "即将消失的影院",
+            "url": "https://movie.douban.com/subject/27061990/",
+            "casts": [],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2461534540.jpg",
+            "id": "27061990",
+            "cover_y": 1000
+        },
+        {
+            "directors": [
+                "尼科莱·阿尔赛"
+            ],
+            "rate": "5.8",
+            "cover_x": 2025,
+            "star": "30",
+            "title": "黑暗塔",
+            "url": "https://movie.douban.com/subject/4943938/",
+            "casts": [
+                "伊德里斯·艾尔巴",
+                "马修·麦康纳",
+                "汤姆·泰勒",
+                "阿比·丽",
+                "凯瑟琳·温妮克"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2480303169.jpg",
+            "id": "4943938",
+            "cover_y": 3000
+        },
+        {
+            "directors": [
+                "申迪"
+            ],
+            "rate": "5.5",
+            "cover_x": 640,
+            "star": "30",
+            "title": "乌玛",
+            "url": "https://movie.douban.com/subject/27063406/",
+            "casts": [],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2461717160.jpg",
+            "id": "27063406",
+            "cover_y": 961
+        },
+        {
+            "directors": [],
+            "rate": "8.5",
+            "cover_x": 2126,
+            "star": "45",
+            "title": "瓣嘴 第三季",
+            "url": "https://movie.douban.com/subject/27058214/",
+            "casts": [
+                "雷佳音",
+                "让·雷诺",
+                "李现",
+                "杨祐宁",
+                "汤姆·霍兰德"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2465556853.jpg",
+            "id": "27058214",
+            "cover_y": 2835
+        },
+        {
+            "directors": [
+                "赵小丁",
+                "安东尼·拉默里纳拉"
+            ],
+            "rate": "4.2",
+            "cover_x": 1372,
+            "star": "25",
+            "title": "三生三世十里桃花",
+            "url": "https://movie.douban.com/subject/25823277/",
+            "casts": [
+                "刘亦菲",
+                "杨洋",
+                "罗晋",
+                "严屹宽",
+                "李纯"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494279388.jpg",
+            "id": "25823277",
+            "cover_y": 1920
+        },
+        {
+            "directors": [
+                "十一月"
+            ],
+            "rate": "5.8",
+            "cover_x": 690,
+            "star": "30",
+            "title": "镇魂街",
+            "url": "https://movie.douban.com/subject/26882293/",
+            "casts": [
+                "汪东城",
+                "安悦溪",
+                "侯明昊",
+                "唐国忠",
+                "刘钊宏"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2461127230.jpg",
+            "id": "26882293",
+            "cover_y": 1227
+        },
+        {
+            "directors": [
+                "葛·艾坦尼斯"
+            ],
+            "rate": "8.2",
+            "cover_x": 2025,
+            "star": "45",
+            "title": "追缉：炸弹客",
+            "url": "https://movie.douban.com/subject/26926437/",
+            "casts": [
+                "保罗·贝坦尼",
+                "凯莎·卡斯特-休伊斯",
+                "萨姆·沃辛顿",
+                "克里斯·诺斯",
+                "简·林奇"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2482407749.jpg",
+            "id": "26926437",
+            "cover_y": 3000
+        },
+        {
+            "directors": [
+                "托尼·基格里奥"
+            ],
+            "rate": "4.5",
+            "cover_x": 896,
+            "star": "25",
+            "title": "反恐特警组：潜龙突围",
+            "url": "https://movie.douban.com/subject/26898064/",
+            "casts": [
+                "山姆·贾格",
+                "阿德琳妮·帕里奇",
+                "迈克尔·加·怀特",
+                "帕斯卡尔·休顿",
+                "泰·奥尔森"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2467425849.jpg",
+            "id": "26898064",
+            "cover_y": 1341
+        },
+        {
+            "directors": [
+                "马克·加蒂斯"
+            ],
+            "rate": "9.2",
+            "cover_x": 783,
+            "star": "45",
+            "title": "酷儿们",
+            "url": "https://movie.douban.com/subject/27032266/",
+            "casts": [
+                "本·卫肖",
+                "拉塞尔·托维",
+                "艾伦·卡明",
+                "菲恩·怀特海德",
+                "丽贝卡·弗朗特"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494520916.jpg",
+            "id": "27032266",
+            "cover_y": 1200
+        },
+        {
+            "directors": [],
+            "rate": "8.8",
+            "cover_x": 1064,
+            "star": "45",
+            "title": "橘衫男子",
+            "url": "https://movie.douban.com/subject/26837905/",
+            "casts": [
+                "朱利安·莫里斯",
+                "瓦妮莎·雷德格瑞夫",
+                "奥利弗·杰森-科恩"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494782515.jpg",
+            "id": "26837905",
+            "cover_y": 1500
+        },
+        {
+            "directors": [
+                "Megan Griffiths",
+                "帕特里克·布莱斯",
+                "Chad Hartigan"
+            ],
+            "rate": "6.7",
+            "cover_x": 972,
+            "star": "35",
+            "title": "104号房间",
+            "url": "https://movie.douban.com/subject/26849768/",
+            "casts": [
+                "雨果·阿姆斯特朗",
+                "戴维·布鲁",
+                "梅罗妮·迪亚兹",
+                "杰伊·杜普拉斯",
+                "维罗尼卡·法尔孔"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2477535082.jpg",
+            "id": "26849768",
+            "cover_y": 1440
+        },
+        {
+            "directors": [
+                "邹燚"
+            ],
+            "rate": "5.8",
+            "cover_x": 1692,
+            "star": "30",
+            "title": "豆福传",
+            "url": "https://movie.douban.com/subject/26705107/",
+            "casts": [
+                "陈佩斯",
+                "李立群",
+                "季冠霖",
+                "付博文"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494279975.jpg",
+            "id": "26705107",
+            "cover_y": 2500
+        },
+        {
+            "directors": [
+                "速达"
+            ],
+            "rate": "5.5",
+            "cover_x": 715,
+            "star": "30",
+            "title": "大耳朵图图之美食狂想曲",
+            "url": "https://movie.douban.com/subject/22232939/",
+            "casts": [
+                "潘延",
+                "范楚绒",
+                "胡谦",
+                "王衡",
+                "李晔"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2490966346.jpg",
+            "id": "22232939",
+            "cover_y": 1000
+        },
+        {
+            "directors": [
+                "李耀东"
+            ],
+            "rate": "2.7",
+            "cover_x": 1736,
+            "star": "15",
+            "title": "夜半凶铃",
+            "url": "https://movie.douban.com/subject/27082116/",
+            "casts": [
+                "刘青",
+                "李浩轩",
+                "白瑶",
+                "贲蓝琪",
+                "孙志翔"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2492324154.jpg",
+            "id": "27082116",
+            "cover_y": 2500
+        },
+        {
+            "directors": [
+                "吴京"
+            ],
+            "rate": "7.5",
+            "cover_x": 750,
+            "star": "40",
+            "title": "战狼2",
+            "url": "https://movie.douban.com/subject/26363254/",
+            "casts": [
+                "吴京",
+                "弗兰克·格里罗",
+                "吴刚",
+                "张翰",
+                "卢靖姗"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2485983612.jpg",
+            "id": "26363254",
+            "cover_y": 1134
+        },
+        {
+            "directors": [
+                "梁允豪",
+                "李政孝"
+            ],
+            "rate": "6.9",
+            "cover_x": 1000,
+            "star": "35",
+            "title": "犯罪心理",
+            "url": "https://movie.douban.com/subject/26951619/",
+            "casts": [
+                "李准基",
+                "文彩元",
+                "孙贤周",
+                "李善彬",
+                "高允"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2493294008.jpg",
+            "id": "26951619",
+            "cover_y": 1446
+        },
+        {
+            "directors": [
+                "Ashley Gething"
+            ],
+            "rate": "8.8",
+            "cover_x": 480,
+            "star": "45",
+            "title": "我们的母亲，戴安娜",
+            "url": "https://movie.douban.com/subject/27085670/",
+            "casts": [
+                "威廉王子",
+                "哈里王子",
+                "埃尔顿·约翰",
+                "戴安娜王妃"
+            ],
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494177052.jpg",
+            "id": "27085670",
+            "cover_y": 710
+        },
+        {
+            "directors": [
+                "金崎贵臣"
+            ],
+            "rate": "8.0",
+            "cover_x": 1668,
+            "star": "40",
+            "title": "为美好的世界献上祝福! 第二季 OVA",
+            "url": "https://movie.douban.com/subject/27072640/",
+            "casts": [
+                "福岛润",
+                "雨宫天",
+                "高桥李依",
+                "茅野爱衣",
+                "原纱友里"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2472143359.jpg",
+            "id": "27072640",
+            "cover_y": 2057
+        },
+        {
+            "directors": [
+                "涅尔斯·阿登·欧普勒夫"
+            ],
+            "rate": "7.2",
+            "cover_x": 750,
+            "star": "35",
+            "title": "德州午夜",
+            "url": "https://movie.douban.com/subject/26715595/",
+            "casts": [
+                "弗朗索瓦·阿诺德",
+                "迪兰·布鲁斯",
+                "阿莉尔·凯贝尔",
+                "詹森·刘易斯",
+                "莎拉·拉莫斯"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494768809.jpg",
+            "id": "26715595",
+            "cover_y": 1000
+        },
+        {
+            "directors": [
+                "RAYIST"
+            ],
+            "rate": "6.2",
+            "cover_x": 1131,
+            "star": "30",
+            "title": "将进酒",
+            "url": "https://movie.douban.com/subject/27043675/",
+            "casts": [
+                "Ching Jun Hong",
+                "Chong Wan Ching",
+                "Mah Mee Tho",
+                "Tan Hun Kian",
+                "Toh Peng Kien"
+            ],
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2466446239.jpg",
+            "id": "27043675",
+            "cover_y": 1600
+        }
+    ]
+}

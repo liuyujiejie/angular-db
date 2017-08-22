@@ -1,0 +1,39 @@
+<!-- 首页开始 -->
+<div class="list">
+    <div class="in_theaters">
+        <a href="#/in_theaters">正在热映>></a>
+        <ul>
+            <li ng-repeat="item in data1.subjects">
+                <a href="#/details/{{item.id}}">
+                    <img ng-src="{{item.images.large}}" alt="">
+                </a>
+                <div class="meta">
+                    <h4><span>{{item.title}}</span> <em>{{item.rating.average}}分</em></h4>
+                    <div class="otherinfo">类型:
+                        <span>{{item.genres.join('、')}}</span></div>
+                </div>
+            </li>
+        </ul>
+        <div class="more" ng-click="getPageSize1()"><a href="javascript:;">加载更多。。。</a></div>
+    </div>
+    <div class="coming_soon">
+        <a href="#/coming_soon">即将上映>></a>
+        <ul>
+            <li ng-repeat="item in data2.subjects">
+                <a href="#/details/{{item.id}}">
+                    <img ng-src="{{item.images.large}}" alt="">
+                </a>
+                <div class="meta">
+                    <h4><span>{{item.title}}</span> <em>{{item.rating.average}}分</em></h4>
+                    <div class="otherinfo">类型:
+                        <span>{{item.genres.join('、')}}</span></div>
+                </div>
+            </li>
+        </ul>
+        <div class="more" ng-click="getPageSize2()"><a href="javascript:;">加载更多。。。</a></div>
+    </div>
+</div>
+
+
+
+<!-- 首页结束 -->

@@ -1,0 +1,23 @@
+{
+    "tags": [{
+            "name": "热门",
+            "Ename": "RM"
+        },
+        {
+            "name": "最新",
+            "Ename": "ZX"
+        },
+        { "name": "经典", "Ename": "JD" },
+        { "name": "可播放", "Ename": "KBF" },
+        { "name": "豆瓣高分", "Ename": "DBGF" },
+        { "name": "冷门佳片", "Ename": "LMJP" },
+        { "name": "华语", "Ename": "HY" },
+        { "name": "欧美", "Ename": "OM" },
+        { "name": "韩国", "Ename": "HG" },
+        { "name": "日本", "Ename": "RB" },
+        { "name": "动作", "Ename": "DZ" },
+        { "name": "喜剧", "Ename": "XJ" },
+        { "name": "爱情", "Ename": "AQ" },
+        { "name": "科幻", "Ename": "KH" }
+    ]
+}

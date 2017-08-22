@@ -1,0 +1,27 @@
+<!-- 选电影html页面开始 -->
+<div class="category list">
+    <h2>分类</h2>
+    <hr />
+    <a href="#/category/T">按热度排序</a>
+    <a href="#/category/R">按时间排序</a>
+    <a href="#/category/S">按评价排序</a>
+    <ul>
+        <li ng-repeat="item in data.data">
+            <a href="#/details/{{item.id}}">
+                <img ng-src="{{item.cover}}" alt="">
+            </a>
+            <div class="meta">
+                <h4><span>{{item.title}}</span> <em>{{item.rate}}分</em></h4>
+            </div>
+        </li>
+    </ul>
+</div>
+<!-- 选电影html'页面结束 -->
+<div ng-show="loading" class="loading-box"></div>
+<div ng-show="loading" class="spinner">
+    <div class="rect1"></div>
+    <div class="rect2"></div>
+    <div class="rect3"></div>
+    <div class="rect4"></div>
+    <div class="rect5"></div>
+</div>

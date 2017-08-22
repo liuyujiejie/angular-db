@@ -1,0 +1,223 @@
+{
+    "subjects": [{
+            "rate": "7.2",
+            "cover_x": 1099,
+            "title": "记忆大师",
+            "url": "https://movie.douban.com/subject/25884801/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2455156816.jpg",
+            "id": "25884801",
+            "cover_y": 1600,
+            "is_new": false
+        },
+        {
+            "rate": "4.3",
+            "cover_x": 1372,
+            "title": "三生三世十里桃花",
+            "url": "https://movie.douban.com/subject/25823277/",
+            "playable": false,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2494279388.jpg",
+            "id": "25823277",
+            "cover_y": 1920,
+            "is_new": true
+        },
+        {
+            "rate": "6.6",
+            "cover_x": 3720,
+            "title": "我是马布里",
+            "url": "https://movie.douban.com/subject/25903033/",
+            "playable": false,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2494729086.jpg",
+            "id": "25903033",
+            "cover_y": 5368,
+            "is_new": true
+        },
+        {
+            "rate": "8.0",
+            "cover_x": 719,
+            "title": "目击者之追凶",
+            "url": "https://movie.douban.com/subject/11600078/",
+            "playable": false,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2433570157.jpg",
+            "id": "11600078",
+            "cover_y": 1024,
+            "is_new": true
+        },
+        {
+            "rate": "8.0",
+            "cover_x": 1429,
+            "title": "湄公河行动",
+            "url": "https://movie.douban.com/subject/25815034/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2380677316.jpg",
+            "id": "25815034",
+            "cover_y": 2000,
+            "is_new": false
+        },
+        {
+            "rate": "8.3",
+            "cover_x": 2000,
+            "title": "驴得水",
+            "url": "https://movie.douban.com/subject/25921812/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2393044761.jpg",
+            "id": "25921812",
+            "cover_y": 3000,
+            "is_new": false
+        },
+        {
+            "rate": "6.8",
+            "cover_x": 1506,
+            "title": "乘风破浪",
+            "url": "https://movie.douban.com/subject/26862259/",
+            "playable": true,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2408407697.jpg",
+            "id": "26862259",
+            "cover_y": 2000,
+            "is_new": false
+        },
+        {
+            "rate": "7.6",
+            "cover_x": 644,
+            "title": "七月与安生",
+            "url": "https://movie.douban.com/subject/25827935/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2378140502.jpg",
+            "id": "25827935",
+            "cover_y": 900,
+            "is_new": false
+        },
+        {
+            "rate": "7.0",
+            "cover_x": 679,
+            "title": "喜欢你",
+            "url": "https://movie.douban.com/subject/26816383/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2456180253.jpg",
+            "id": "26816383",
+            "cover_y": 950,
+            "is_new": false
+        },
+        {
+            "rate": "8.0",
+            "cover_x": 717,
+            "title": "老炮儿",
+            "url": "https://movie.douban.com/subject/24751756/",
+            "playable": true,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2292976849.jpg",
+            "id": "24751756",
+            "cover_y": 1000,
+            "is_new": false
+        },
+        {
+            "rate": "6.8",
+            "cover_x": 3500,
+            "title": "美人鱼",
+            "url": "https://movie.douban.com/subject/19944106/",
+            "playable": true,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2316177058.jpg",
+            "id": "19944106",
+            "cover_y": 4889,
+            "is_new": false
+        },
+        {
+            "rate": "7.7",
+            "cover_x": 8438,
+            "title": "罗曼蒂克消亡史",
+            "url": "https://movie.douban.com/subject/24751763/",
+            "playable": true,
+            "cover": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2404553168.jpg",
+            "id": "24751763",
+            "cover_y": 11769,
+            "is_new": false
+        },
+        {
+            "rate": "7.4",
+            "cover_x": 5906,
+            "title": "夏洛特烦恼",
+            "url": "https://movie.douban.com/subject/25964071/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2264377763.jpg",
+            "id": "25964071",
+            "cover_y": 8268,
+            "is_new": false
+        },
+        {
+            "rate": "6.7",
+            "cover_x": 2000,
+            "title": "我不是潘金莲",
+            "url": "https://movie.douban.com/subject/26630781/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2378133884.jpg",
+            "id": "26630781",
+            "cover_y": 2904,
+            "is_new": false
+        },
+        {
+            "rate": "6.4",
+            "cover_x": 2143,
+            "title": "嫌疑人X的献身",
+            "url": "https://movie.douban.com/subject/26606743/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2448676053.jpg",
+            "id": "26606743",
+            "cover_y": 3000,
+            "is_new": false
+        },
+        {
+            "rate": "7.2",
+            "cover_x": 1071,
+            "title": "春娇救志明",
+            "url": "https://movie.douban.com/subject/26639958/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2456056900.jpg",
+            "id": "26639958",
+            "cover_y": 1500,
+            "is_new": false
+        },
+        {
+            "rate": "6.5",
+            "cover_x": 1080,
+            "title": "大鱼海棠",
+            "url": "https://movie.douban.com/subject/5045678/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2361744534.jpg",
+            "id": "5045678",
+            "cover_y": 1620,
+            "is_new": false
+        },
+        {
+            "rate": "7.6",
+            "cover_x": 600,
+            "title": "寻龙诀",
+            "url": "https://movie.douban.com/subject/3077412/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2284620292.jpg",
+            "id": "3077412",
+            "cover_y": 838,
+            "is_new": false
+        },
+        {
+            "rate": "5.6",
+            "cover_x": 1786,
+            "title": "西游伏妖篇",
+            "url": "https://movie.douban.com/subject/25801066/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2411953504.jpg",
+            "id": "25801066",
+            "cover_y": 2500,
+            "is_new": false
+        },
+        {
+            "rate": "4.9",
+            "cover_x": 505,
+            "title": "长城",
+            "url": "https://movie.douban.com/subject/6982558/",
+            "playable": true,
+            "cover": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2394573821.jpg",
+            "id": "6982558",
+            "cover_y": 800,
+            "is_new": false
+        }
+    ]
+}
